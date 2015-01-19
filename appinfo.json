@@ -1,0 +1,17 @@
+{
+  "uuid": "d36393da-5c1f-43cf-9599-9214da551613",
+  "shortName": "pomotodo",
+  "longName": "pomotodo",
+  "companyName": "Pomotodo",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
