@@ -1,5 +1,9 @@
 
 # Ignore build generated files
 build
+resources
+src
+node_modules
+.vendor
 
 .lock-waf_darwin_build

@@ -1,17 +1,35 @@
 {
   "uuid": "d36393da-5c1f-43cf-9599-9214da551613",
-  "shortName": "pomotodo",
-  "longName": "pomotodo",
-  "companyName": "Pomotodo",
+  "shortName": "pebblejs-seed",
+  "longName": "pebblejs-seed",
+  "companyName": "c4605",
   "versionCode": 1,
-  "versionLabel": "1.0",
+  "versionLabel": "0.1",
+  "capabilities": [],
   "watchapp": {
     "watchface": false
   },
-  "appKeys": {
-    "dummy": 0
-  },
+  "appKeys": {},
   "resources": {
-    "media": []
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "file": "images/logo_splash.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_TILE_SPLASH",
+        "file": "images/tile_splash.png"
+      }, {
+        "type": "font",
+        "name": "MONO_FONT_14",
+        "file": "fonts/UbuntuMono-Regular.ttf"
+      }
+    ]
   }
 }
